@@ -2,7 +2,7 @@
 
 A simple and stylish app for creating task lists. Perfect for keeping your tasks under control.
 
-[Click here to see DEMO LINK](https://sholudyvyy.github.io/todoApp/)
+[Click here to see DEMO LINK](https://sholudyvyy.github.io/mybike-landing-page/)
 
 ## 📌 Features.
 
