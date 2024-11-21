@@ -1,6 +1,6 @@
 # MyBike 📝
 
-A simple and stylish app for creating task lists. Perfect for keeping your tasks under control.
+This is a landing page for the MyBike bicycle brand, created using HTML, CSS and SASS.
 
 [Click here to see DEMO LINK](https://sholudyvyy.github.io/mybike-landing-page/)
 
