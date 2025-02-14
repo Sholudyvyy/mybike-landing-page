@@ -1,0 +1,12 @@
+@use "../utils/mixins.scss" as *;
+
+.details {
+  &__content {
+    display: grid;
+    row-gap: 40px;
+
+    @include on-tablet {
+      row-gap: 64px;
+    }
+  }
+}

@@ -1,0 +1,23 @@
+@use "../utils/mixins.scss" as *;
+
+.footer {
+  background-image: url('@/images/footer-photo.webp');
+  background-size: cover;
+  background-position: center;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  z-index: -1;
+
+  width: 100%;
+  height: 200px;
+
+  @include on-tablet {
+    height: 480px;
+  }
+
+  @include on-desktop {
+    height: 555px;
+  }
+}
